@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/Zidan241/contribution-cal-snake/blob/master/animation/snake.gif"
        alt="snake" />
 </div>
 
